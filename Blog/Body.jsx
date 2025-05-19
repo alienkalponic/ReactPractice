@@ -1,5 +1,6 @@
 import { Tostcard } from "./TostCard";
 import axios from "axios";
+import searchIcon from "../Blog/images/search-icon.svg";
 const APi_Url = import.meta.env.VITE_BLOG_API;
 
 export const Body=()=>{
@@ -22,7 +23,7 @@ export const Body=()=>{
 
       if (response.data.statusCode == 200 && response.data.success) {
         console.log("hcp  response", response.data.response);
-      //   const getData = JSON.parse(response.data.response);
+        const getData = JSON.parse(response.data.response);
         
       }
 
@@ -50,7 +51,7 @@ export const Body=()=>{
                      <div className="search">
                         <input type="text" className="searchTerm" placeholder="Keyword/author name"/>
                         <button type="submit" className="searchButton">
-                        <img src="../Blog/images/search-icon.svg"/>
+                        <img src={searchIcon}/>
                         </button>
                      </div>
                   </form>

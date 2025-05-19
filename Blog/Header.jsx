@@ -1,6 +1,13 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../Blog/responsive.css";
 import "../Blog/font-awesome.css";
+
+import logo from "../Blog/images/logo.svg";
+import menuf1 from "../Blog/images/menuf-1.png";
+import menuf2 from "../Blog/images/menuf-2.png";
+import menuf3 from "../Blog/images/menuf-3.png";
+import menuf4 from "../Blog/images/menuf-4.png";
+
 export const Header=()=>{
     return(
     <header id="myHeader">
@@ -9,7 +16,7 @@ export const Header=()=>{
                <div className="main-menu-part"> 
                <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" className="navbar-toggler navbar-toggler-right"><i className="fa fa-bars"></i></button>                 
                   <div className="site-logo">
-                     <a href="index.html"><img src="../Blog/../Blog/images/logo.svg"/></a>
+                     <a href="index.html"><img src={logo}/></a>
                   </div>
                   
                   <nav className="navigation">
@@ -22,7 +29,7 @@ export const Header=()=>{
                                     <li>
                                           <div className="inner-menu-item">
                                              <div className="img-wrap">
-                                                <img src="../Blog/images/menuf-1.png" className="menui1"/>
+                                                <img src={menuf1} className="menui1"/>
                                              </div>
                                              <a href="javascript:void(0);">Patch Test</a>
                                           </div>
@@ -30,7 +37,7 @@ export const Header=()=>{
                                     <li>
                                           <div className="inner-menu-item">
                                              <div className="img-wrap">
-                                                <img src="../Blog/images/menuf-2.png" className="menui2"/>
+                                                <img src={menuf2} className="menui2"/>
                                              </div>
                                        <a href="javascript:void(0);">Face Mapping & <br/>Skin Analysis</a>
                                           </div>
@@ -38,7 +45,7 @@ export const Header=()=>{
                                     <li>
                                           <div className="inner-menu-item">
                                              <div className="img-wrap">
-                                                <img src="../Blog/images/menuf-3.png" className="menui3"/>
+                                                <img src={menuf3} className="menui3"/>
                                              </div>
                                        <a href="javascript:void(0);">Video Consultation</a>
                                           </div>
@@ -46,7 +53,7 @@ export const Header=()=>{
                                     <li>
                                           <div className="inner-menu-item">
                                              <div className="img-wrap">
-                                                <img src="../Blog/images/menuf-4.png" className="menui4"/>
+                                                <img src={menuf4} className="menui4"/>
                                              </div>
                                           <a href="javascript:void(0);">Live Chat</a>
                                           </div>
