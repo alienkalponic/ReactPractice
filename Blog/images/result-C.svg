@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.523" cy="0.527" r="0.735" gradientTransform="matrix(0.285, -0.959, 0.937, 0.278, -0.119, 0.882)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.424" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.586" stop-color="#fff"/>
+      <stop offset="0.744" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_221" data-name="Group 221" transform="translate(-544 -680.988)" style="isolation: isolate">
+    <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(544 680.988)" stroke="#000" stroke-width="2" stroke-dasharray="3 3" opacity="0.334" fill="url(#radial-gradient)">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11" fill="none"/>
+    </g>
+    <text id="C" transform="translate(555 697.988)" stroke="#000" stroke-width="1" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="-3.715" y="0">C</tspan></text>
+  </g>
+</svg>

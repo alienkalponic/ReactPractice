@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="38" viewBox="0 0 90 38">
+  <g id="Group_2" data-name="Group 2" transform="translate(-7 -16)">
+    <path id="Icon_awesome-pause" data-name="Icon awesome-pause" d="M6.429,22.18H2.143A2.143,2.143,0,0,1,0,20.037V4.323A2.143,2.143,0,0,1,2.143,2.18H6.429A2.143,2.143,0,0,1,8.571,4.323V20.037A2.143,2.143,0,0,1,6.429,22.18ZM20,20.037V4.323A2.143,2.143,0,0,0,17.857,2.18H13.571a2.143,2.143,0,0,0-2.143,2.143V20.037a2.143,2.143,0,0,0,2.143,2.143h4.286A2.143,2.143,0,0,0,20,20.037Z" transform="translate(17 22.82)" fill="rgba(0,0,0,0.3)"/>
+    <text id="PAUSE" transform="translate(43 41)" fill="rgba(0,0,0,0.3)" font-size="16" font-family="AppleSDGothicNeoBold, Apple SD Gothic Neo"><tspan x="0" y="0">PAUSE</tspan></text>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(7 16)" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="2">
+      <rect width="90" height="38" rx="18" stroke="none"/>
+      <rect x="1" y="1" width="88" height="36" rx="17" fill="none"/>
+    </g>
+  </g>
+</svg>

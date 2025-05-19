@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="46" viewBox="0 0 146 46">
+  <g id="Group_358" data-name="Group 358" transform="translate(-1249 -1040)">
+    <g id="Group_356" data-name="Group 356" transform="translate(685 287)">
+      <circle id="Ellipse_234" data-name="Ellipse 234" cx="23" cy="23" r="23" transform="translate(664 753)" fill="#d88e85"/>
+      <text id="B" transform="translate(687 786)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-8.025" y="0">B</tspan></text>
+    </g>
+    <g id="Group_357" data-name="Group 357" transform="translate(608 428)">
+      <circle id="Ellipse_235" data-name="Ellipse 235" cx="23" cy="23" r="23" transform="translate(641 612)" fill="#fe5e57"/>
+      <text id="A" transform="translate(664 645)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-9.03" y="0">A</tspan></text>
+    </g>
+    <text id="_" data-name="&amp;" transform="translate(1323 1071)" fill="red" font-size="24" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-9.604" y="0">&amp;</tspan></text>
+  </g>
+</svg>

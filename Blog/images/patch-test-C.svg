@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.523" cy="0.527" r="0.735" gradientTransform="matrix(0.285, -0.959, 0.937, 0.278, -0.119, 0.882)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.404"/>
+      <stop offset="0.424" stop-opacity="0"/>
+      <stop offset="0.586" stop-opacity="0.361"/>
+      <stop offset="0.744" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_307" data-name="Group 307" transform="translate(-797 -632)">
+    <g id="Group_305" data-name="Group 305" transform="translate(253 -49)">
+      <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(544 681)" stroke="#000" stroke-width="2" stroke-dasharray="3 3" opacity="0.334" fill="url(#radial-gradient)" style="mix-blend-mode: overlay;isolation: isolate">
+        <circle cx="23" cy="23" r="23" stroke="none"/>
+        <circle cx="23" cy="23" r="22" fill="none"/>
+      </g>
+      <text id="C" transform="translate(567 708)" stroke="#000" stroke-width="1" font-size="11" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="-3.405" y="0">C</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <filter id="Ellipse_66" x="0" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.545"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_305" data-name="Group 305" transform="translate(-849.5 -937.5)">
+    <g id="Group_215" data-name="Group 215" transform="translate(262 11)">
+      <g transform="matrix(1, 0, 0, 1, 587.5, 926.5)" filter="url(#Ellipse_66)">
+        <g id="Ellipse_66-2" data-name="Ellipse 66" transform="translate(1.5 0.5)" fill="#fff" stroke="#000" stroke-width="2" stroke-dasharray="3 3">
+          <circle cx="23" cy="23" r="23" stroke="none"/>
+          <circle cx="23" cy="23" r="22" fill="none"/>
+        </g>
+      </g>
+      <text id="B" transform="translate(612 953)" stroke="#000" stroke-width="1" font-size="11" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="-3.153" y="0">B</tspan></text>
+    </g>
+  </g>
+</svg>

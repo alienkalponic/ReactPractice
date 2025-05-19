@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <filter id="Ellipse_67" x="0" y="0" width="27" height="27" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.545"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_224" data-name="Group 224" transform="translate(-542.5 -680.488)" style="isolation: isolate">
+    <g transform="matrix(1, 0, 0, 1, 542.5, 680.49)" filter="url(#Ellipse_67)" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Ellipse_67-2" data-name="Ellipse 67" transform="translate(1.5 0.5)" fill="#fff" stroke="#000" stroke-width="2" stroke-dasharray="3 3">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11" fill="none"/>
+      </g>
+    </g>
+    <text id="A" transform="translate(556 697.988)" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.04em"><tspan x="-3.87" y="0">A</tspan></text>
+  </g>
+</svg>
